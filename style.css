@@ -1,0 +1,27 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.color-heading {
+  color: orange;
+  font-size: 52px;
+}
+.order-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 11px 41px;
+  width: 9%;
+  border-radius: 15px;
+  margin-top: 2%;
+  color: white;
+  font-weight: 700;
+}
+.flex-container {
+  display: flex;
+}
+.adjust-both {
+  width: 100%;
+  padding-left: 22px;
+}
+.adjust-both img {
+  width: 65%;
+}
