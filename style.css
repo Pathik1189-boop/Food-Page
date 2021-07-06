@@ -25,3 +25,34 @@ body {
 .adjust-both img {
   width: 65%;
 }
+.background-add {
+  background-image: url(7.png);
+  background-repeat: no-repeat;
+}
+#my-recip {
+  text-align: center;
+  margin-top: 12px;
+}
+.box-show {
+  box-shadow: 10px 10px 40px 25px gray;
+  width: 32.33%;
+  margin-left: 3%;
+  padding: 8px;
+  padding-left: 10px;
+  margin-right: 2%;
+  border-radius: 15px;
+  margin-bottom: 150px;
+}
+.box-show img {
+  width: 100%;
+  padding-top: 15px;
+}
+.food-items {
+  display: flex;
+  margin-top: 70px;
+}
+footer {
+  text-align: center;
+  font-size: small;
+  text-emphasis-color: black;
+}
